@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Travel Tips &#8211; Cloud Computing</title>
+	<atom:link href="/tag/travel-tips/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 May 2023 18:12:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/05/cropped-ikonica-32x32.png</url>
+	<title>Travel Tips &#8211; Cloud Computing</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sigurnost i zaštita podataka</title>
+		<link>/sigurnost-i-zastita/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 13 Apr 2023 21:20:00 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Travel Tips]]></category>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy-2/</guid>
+
+					<description><![CDATA[Sigurnost i zaštita podataka jedna su od najvažnijih tema u Cloud Computingu. Kao što su korisniciosigurali svoje podatke na lokalnom računaru, tako i u Cloud Computingu trebaju poduzeti odgovarajućemjere kako bi se osigurali podaci i smanjili rizici od cyber napada.Glavne prijetnje sigurnosti u Cloud Computingu uključuju: Ove mjere pomoći će da se osiguraju podaci u [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Sigurnost i zaštita podataka jedna su od najvažnijih tema u Cloud Computingu. Kao što su korisnici<br>osigurali svoje podatke na lokalnom računaru, tako i u Cloud Computingu trebaju poduzeti odgovarajuće<br>mjere kako bi se osigurali podaci i smanjili rizici od cyber napada.<br>Glavne prijetnje sigurnosti u Cloud Computingu uključuju:</p>
+
+
+
+<ol>
+<li>Nepovjerenje u Cloud provajdere: Nedostatak povjerenja u Cloud provajdere je čest problem.<br>Korisnici moraju biti sigurni da su njihovi podaci sigurni u Cloud okruženju i da provajderi neće<br>zloupotrijebiti njihove podatke.</li>
+
+
+
+<li>Napadi izvana: Napadi poput krađe identiteta, krađe podataka, DDoS napada i ransomwarea su<br>glavni izvori prijetnji u Cloud okruženju.</li>
+
+
+
+<li>Zlonamjerni interni zaposleni: Zaposleni provajdera mogu biti zlonamjerni i koristiti se podacima<br>za koje nemaju ovlaštenja, prodati podatke ili ih namjerno izgubiti.</li>
+
+
+
+<li>Gubitak podataka: Podaci se mogu izgubiti zbog kvara hardvera, grešaka u softveru ili prirodnih<br>katastrofa.<br>Kako se zaštititi od prijetnji i osigurati sigurnost podataka:</li>
+
+
+
+<li>Upotreba jake autentifikacije: Autentifikacija na razini korisnika i uređaja je ključna za sigurnost<br>podataka u Cloud okruženju. MFA (Multi-factor autentifikacija) je najbolji način za osiguravanje<br>sigurnosti.</li>
+
+
+
+<li>Korištenje kriptografije: Kriptografija se koristi za šifriranje podataka u Cloud okruženju kako bi se<br>osigurala njihova sigurnost. Ovo osigurava da samo ovlašteni korisnici mogu pristupiti podacima.</li>
+
+
+
+<li>Upravljanje ovlaštenjima: Ovlaštenja se moraju upravljati na razini korisnika i uređaja kako bi se<br>osiguralo da samo ovlašteni korisnici imaju pristup podacima.</li>
+
+
+
+<li>Praćenje i analiza: Sistemi nadzora i upravljanja događajima (SIEM) se koriste za nadzor i analizu<br>aktivnosti u Cloud okruženju kako bi se otkrili i spriječili potencijalni sigurnosni problemi.</li>
+
+
+
+<li>Uspostavljanje sigurnosne politike: Sigurnosna politika mora se uspostaviti kako bi se osiguralo da<br>se korisnici pridržavaju sigurnosnih pravila i standarda u Cloud okruženju.</li>
+</ol>
+
+
+
+<p>Ove mjere pomoći će da se osiguraju podaci u Cloud okruženju, ali isto tako je važno biti svjestan da<br>sigurnost podataka nije apsolutna, te da ne postoji 100% zaštita od svih prijetnji. Dakle, korisnici Cloud<br>usluga takođe trebaju poduzimati svoje vlastite sigurnosne mjere, kao što su korištenje snažnih lozinki,<br>ograničavanje pristupa podacima samo ovlaštenim korisnicima, redovno ažuriranje softvera, šifriranje<br>podataka itd.<br>Uz to, važno je provjeriti nivo sigurnosti koju pruža provajder Cloud usluga prije nego se odlučite<br>za njihovu upotrebu. To uključuje provjeru certifikata, sigurnosnih protokola, procesa sigurnosne provjere i<br>drugih relevantnih mjera. Također, treba biti svjestan da se odgovornost za sigurnost podataka dijeli između<br>korisnika i provajdera usluge.<br>Ukratko, sigurnost podataka je kritična komponenta Cloud Computinga, koja zahtijeva pažljivo<br>planiranje i provođenje sigurnosnih mjera kako bi se zaštitili podaci korisnika. Potrebno je redovno<br>ažuriranje i provjera sigurnosnih protokola, te edukacija korisnika o sigurnom korištenju Cloud usluga.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

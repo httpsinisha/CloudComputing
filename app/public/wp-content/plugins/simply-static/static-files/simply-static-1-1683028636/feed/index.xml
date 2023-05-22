@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cloud Computing</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 May 2023 18:32:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/05/cropped-ikonica-32x32.png</url>
+	<title>Cloud Computing</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Infrastruktura i mreža</title>
+		<link>/infrastruktura-i-mreza/</link>
+					<comments>/infrastruktura-i-mreza/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 26 Apr 2023 21:23:00 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">https://oceanwp.org/travel/metus-vitae-pharetra-auctor-copy/</guid>
+
+					<description><![CDATA[Infrastruktura i mreža u Cloud Computingu igraju ključnu ulogu u osiguravanju performansi, pouzdanosti i sigurnosti Cloud usluga. Cloud infrastruktura se sastoji od računarskih resursa, skladišta podataka, mrežnih komponenti i softverskih rješenja, a sve to se nalazi na jednom mjestu i upravlja se centralizovano. Jedna od najvažnijih karakteristika Cloud infrastrukture je skalabilnost, što znači da se [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size: revert;">Infrastruktura i mreža u Cloud Computingu igraju ključnu ulogu u osiguravanju performansi,</span></p>
+<p>pouzdanosti i sigurnosti Cloud usluga. Cloud infrastruktura se sastoji od računarskih resursa, skladišta<br />
+podataka, mrežnih komponenti i softverskih rješenja, a sve to se nalazi na jednom mjestu i upravlja se<br />
+centralizovano.<br />
+Jedna od najvažnijih karakteristika Cloud infrastrukture je skalabilnost, što znači da se kapaciteti<br />
+mogu povećavati ili smanjivati prema potrebi. Ova funkcionalnost je omogućena upotrebom virtualizacije,<br />
+koja omogućava stvaranje virtualnih mašina na fizičkom hardveru, što znači da se jedna fizička mašina može<br />
+koristiti za pokretanje više virtualnih mašina.<br />
+Upravljanje mrežom u Cloud Computingu obuhvata konfigurisanje i upravljanje mrežnim<br />
+komponentama kao što su mrežni uređaji, protokoli i usluge. U Cloud okruženju, mrežni promet se<br />
+preusmjerava preko virtualnih mreža koje se mogu dinamički prilagođavati potrebama korisnika.<br />
+Jedna od prednosti upravljanja mrežom u Cloud Computingu je mogućnost brzog i jednostavnog<br />
+stvaranja i upravljanja virtualnim mrežama, što omogućava korisnicima brzu implementaciju aplikacija i<br />
+resursa u Cloudu. Takođe, Cloud provajderi obično nude napredne mrežne funkcionalnosti, kao što su load<br />
+balancing, skaliranje mreže i upravljanje prometom.<br />
+Upravljanje mrežom u Cloud Computingu takođe obuhvata i sigurnosne aspekte, kao što su<br />
+enkripcija, autentikacija i kontrola pristupa. Cloud provajderi obično nude napredne sigurnosne mehanizme<br />
+koji osiguravaju da mrežni promet ostaje siguran i privatan.<br />
+U zaključku, Cloud infrastruktura i upravljanje mrežom su ključni elementi Cloud Computingu koji<br />
+omogućavaju korisnicima da iskoriste sve prednosti Cloud tehnologije. Pružanje pouzdane, skalabilne i<br />
+sigurne Cloud infrastrukture i mrežnih usluga je izazov za Cloud provajdere, ali i prilika da se razlikuju na<br />
+tržištu i pruže korisnicima visokokvalitetne Cloud usluge.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/infrastruktura-i-mreza/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arhitektura Cloud Computinga</title>
+		<link>/arhitektura/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 25 Apr 2023 21:25:00 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">https://oceanwp.org/travel/interdum-magna-augue-eget-copy/</guid>
+
+					<description><![CDATA[Arhitektura Cloud Computinga se sastoji od tri glavna modela usluga: Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) i Software-as-a-Service (SaaS). Svaki od ovih modela nudi različit nivo apstrakcije i funkcionalnosti. Infrastructure-as-a-Service (IaaS) model pruža korisnicima virtualizirane resurse kao što su procesorska snaga, memorija, skladištenje i mrežni resursi. Ovaj model omogućava korisnicima da koriste virtualne mašine ili druge virtualne [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-size: revert;">Arhitektura Cloud Computinga se sastoji od tri glavna modela usluga: Infrastructure-as-a-Service</span></p>
+<p>(IaaS), Platform-as-a-Service (PaaS) i Software-as-a-Service (SaaS). Svaki od ovih modela nudi različit nivo<br />
+apstrakcije i funkcionalnosti.<br />
+Infrastructure-as-a-Service (IaaS) model pruža korisnicima virtualizirane resurse kao što su<br />
+procesorska snaga, memorija, skladištenje i mrežni resursi. Ovaj model omogućava korisnicima da koriste<br />
+virtualne mašine ili druge virtualne resurse u Cloudu i samostalno upravljaju operativnim sistemom i<br />
+aplikacijama. IaaS omogućuje korisnicima da brzo stvaraju, mijenjaju i ukidaju virtualne mašine, bez<br />
+potrebe za održavanjem vlastite infrastrukture.<br />
+Platform-as-a-Service (PaaS) model pruža korisnicima razvojnu platformu i alate koji olakšavaju<br />
+izgradnju, testiranje i implementaciju aplikacija. PaaS omogućuje korisnicima da se usredotoče na razvoj i<br />
+inovacije aplikacija, dok se Cloud provajder brine o održavanju infrastrukture i platforme. Ovaj model<br />
+uključuje podršku za programski jezik, okruženje izvršavanja, baze podataka i druge alate za razvoj<br />
+aplikacija.<br />
+Software-as-a-Service (SaaS) model pruža korisnicima aplikacije koje se izvršavaju u Cloudu, bez<br />
+potrebe za instalacijom i održavanjem aplikacija na lokalnom računaru. Ovaj model nudi gotove aplikacije,<br />
+kao što su e-pošta, CRM, ERP i druge aplikacije koje se mogu prilagoditi potrebama korisnika. SaaS model<br />
+omogućava korisnicima da koriste aplikacije na zahtjev i plaćaju samo za korištenje, bez potrebe za<br />
+kupovinom i održavanjem licenci.</p>
+<h3>Vrste</h3>
+<p>Postoje tri glavne vrste Cloud Computinga: public, private i hybrid Cloud. Public Cloud je Cloud<br />
+model u kojem Cloud provajder pruža usluge javno, preko interneta, a korisnici mogu koristiti resurse i<br />
+plaćati samo za korištenje. Private Cloud je Cloud model u kojem se infrastruktura i resursi nalaze na<br />
+lokalnoj lokaciji kompanije ili organizacije i koriste se samo za internu upotrebu. Hybrid Cloud je Cloud<br />
+model koji kombinuje obe vrste Cloud-a, gdje kompanije ili organizacije koriste kombinaciju javnih i<br />
+privatnih Cloud-ova za različite funkcije i usluge.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Sigurnost i zaštita podataka</title>
+		<link>/sigurnost-i-zastita/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 13 Apr 2023 21:20:00 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<category><![CDATA[Travel Tips]]></category>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy-2/</guid>
+
+					<description><![CDATA[Sigurnost i zaštita podataka jedna su od najvažnijih tema u Cloud Computingu. Kao što su korisniciosigurali svoje podatke na lokalnom računaru, tako i u Cloud Computingu trebaju poduzeti odgovarajućemjere kako bi se osigurali podaci i smanjili rizici od cyber napada.Glavne prijetnje sigurnosti u Cloud Computingu uključuju: Ove mjere pomoći će da se osiguraju podaci u [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Sigurnost i zaštita podataka jedna su od najvažnijih tema u Cloud Computingu. Kao što su korisnici<br>osigurali svoje podatke na lokalnom računaru, tako i u Cloud Computingu trebaju poduzeti odgovarajuće<br>mjere kako bi se osigurali podaci i smanjili rizici od cyber napada.<br>Glavne prijetnje sigurnosti u Cloud Computingu uključuju:</p>
+
+
+
+<ol>
+<li>Nepovjerenje u Cloud provajdere: Nedostatak povjerenja u Cloud provajdere je čest problem.<br>Korisnici moraju biti sigurni da su njihovi podaci sigurni u Cloud okruženju i da provajderi neće<br>zloupotrijebiti njihove podatke.</li>
+
+
+
+<li>Napadi izvana: Napadi poput krađe identiteta, krađe podataka, DDoS napada i ransomwarea su<br>glavni izvori prijetnji u Cloud okruženju.</li>
+
+
+
+<li>Zlonamjerni interni zaposleni: Zaposleni provajdera mogu biti zlonamjerni i koristiti se podacima<br>za koje nemaju ovlaštenja, prodati podatke ili ih namjerno izgubiti.</li>
+
+
+
+<li>Gubitak podataka: Podaci se mogu izgubiti zbog kvara hardvera, grešaka u softveru ili prirodnih<br>katastrofa.<br>Kako se zaštititi od prijetnji i osigurati sigurnost podataka:</li>
+
+
+
+<li>Upotreba jake autentifikacije: Autentifikacija na razini korisnika i uređaja je ključna za sigurnost<br>podataka u Cloud okruženju. MFA (Multi-factor autentifikacija) je najbolji način za osiguravanje<br>sigurnosti.</li>
+
+
+
+<li>Korištenje kriptografije: Kriptografija se koristi za šifriranje podataka u Cloud okruženju kako bi se<br>osigurala njihova sigurnost. Ovo osigurava da samo ovlašteni korisnici mogu pristupiti podacima.</li>
+
+
+
+<li>Upravljanje ovlaštenjima: Ovlaštenja se moraju upravljati na razini korisnika i uređaja kako bi se<br>osiguralo da samo ovlašteni korisnici imaju pristup podacima.</li>
+
+
+
+<li>Praćenje i analiza: Sistemi nadzora i upravljanja događajima (SIEM) se koriste za nadzor i analizu<br>aktivnosti u Cloud okruženju kako bi se otkrili i spriječili potencijalni sigurnosni problemi.</li>
+
+
+
+<li>Uspostavljanje sigurnosne politike: Sigurnosna politika mora se uspostaviti kako bi se osiguralo da<br>se korisnici pridržavaju sigurnosnih pravila i standarda u Cloud okruženju.</li>
+</ol>
+
+
+
+<p>Ove mjere pomoći će da se osiguraju podaci u Cloud okruženju, ali isto tako je važno biti svjestan da<br>sigurnost podataka nije apsolutna, te da ne postoji 100% zaštita od svih prijetnji. Dakle, korisnici Cloud<br>usluga takođe trebaju poduzimati svoje vlastite sigurnosne mjere, kao što su korištenje snažnih lozinki,<br>ograničavanje pristupa podacima samo ovlaštenim korisnicima, redovno ažuriranje softvera, šifriranje<br>podataka itd.<br>Uz to, važno je provjeriti nivo sigurnosti koju pruža provajder Cloud usluga prije nego se odlučite<br>za njihovu upotrebu. To uključuje provjeru certifikata, sigurnosnih protokola, procesa sigurnosne provjere i<br>drugih relevantnih mjera. Također, treba biti svjestan da se odgovornost za sigurnost podataka dijeli između<br>korisnika i provajdera usluge.<br>Ukratko, sigurnost podataka je kritična komponenta Cloud Computinga, koja zahtijeva pažljivo<br>planiranje i provođenje sigurnosnih mjera kako bi se zaštitili podaci korisnika. Potrebno je redovno<br>ažuriranje i provjera sigurnosnih protokola, te edukacija korisnika o sigurnom korištenju Cloud usluga.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Primjene Cloud Computinga</title>
+		<link>/primjena/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 03 Apr 2023 21:20:00 +0000</pubDate>
+				<category><![CDATA[Cloud]]></category>
+		<guid isPermaLink="false">https://oceanwp.org/travel/2016/04/15/litora-torqent-per-conubia-copy/</guid>
+
+					<description><![CDATA[Cloud Computing ima mnogo primjena u poslovnom svijetu i organizacijama različitih veličina iaktivnosti. U ovom dijelu ćemo se usredotočiti na neke od najčešćih primjena Cloud Computinga.Jedna od ključnih prednosti Cloud Computinga je skalabilnost i fleksibilnost. To znači da kompanije iorganizacije mogu brzo povećati ili smanjiti kapacitete prema potrebama poslovanja, što može biti korisnou periodima velikih [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Cloud Computing ima mnogo primjena u poslovnom svijetu i organizacijama različitih veličina i<br>aktivnosti. U ovom dijelu ćemo se usredotočiti na neke od najčešćih primjena Cloud Computinga.<br>Jedna od ključnih prednosti Cloud Computinga je skalabilnost i fleksibilnost. To znači da kompanije i<br>organizacije mogu brzo povećati ili smanjiti kapacitete prema potrebama poslovanja, što može biti korisno<br>u periodima velikih opterećenja, poput sezonskih perioda ili u toku velikih događaja. Osim toga, Cloud<br>Computing omogućava rad na daljinu i udaljene timove, što je bilo posebno korisno u vrijeme pandemije<br>COVID-19.<br>Primjene Cloud Computinga u zdravstvu su takođe sve raširenije. Zdravstvene ustanove mogu<br>koristiti Cloud usluge za skladištenje i razmjenu medicinskih podataka, za analizu velikih količina podataka<br>te za razvoj i testiranje novih medicinskih uređaja i aplikacija. Cloud Computing može takođe poboljšati<br>kvalitetu zdravstvene zaštite i omogućiti bolju koordinaciju između različitih zdravstvenih radnika.<br>U obrazovanju, Cloud Computing može biti koristan za stvaranje virtualnih učionica i obrazovnih<br>platformi, koje omogućavaju učenje na daljinu i pristup obrazovnim materijalima iz bilo kojeg mjesta i u<br>bilo koje vrijeme. Cloud Computing takođe može biti koristan za skladištenje i dijeljenje velikih količina<br>obrazovnih podataka, kao i za razvoj i testiranje novih obrazovnih aplikacija.<br>U financijskom sektoru, Cloud Computing se koristi za obradu i analizu velikih količina financijskih<br>podataka, za razvoj i testiranje novih financijskih aplikacija te za pružanje financijskih usluga putem<br>interneta. Cloud usluge omogućavaju bankama i drugim financijskim institucijama brzo i efikasno<br>upravljanje podacima, što može dovesti do poboljšanja poslovanja i smanjenja troškova.<br>Osim ovih primjena, Cloud Computing se koristi i u drugim sektorima: telekomunikacije,<br>maloprodaje, turizam, proizvodnja i mnogi drugi. Korištenje Cloud usluga može poboljšati poslovanje<br>organizacija, smanjiti troškove, povećati skalabilnost i fleksibilnost, te poboljšati kvalitetu usluga i<br>proizvoda.</p>
+
+
+
+<figure class="wp-block-image size-full is-style-default"><img decoding="async" width="712" height="418" src="/wp-content/uploads/2023/05/servisi.png" alt="" class="wp-image-489" srcset="/wp-content/uploads/2023/05/servisi.png 712w, /wp-content/uploads/2023/05/servisi-300x176.png 300w" sizes="(max-width: 712px) 100vw, 712px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
